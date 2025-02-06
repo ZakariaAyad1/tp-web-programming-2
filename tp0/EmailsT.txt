@@ -1,0 +1,14 @@
+ahmed.benali@testmail.ma
+amal.ghazali@noemail.ma
+fatima.rachid@devmail.ma
+hanane.chaouki@fake.ma
+ismail.ferdaous@mockemail.ma
+khalid.meknassi@dummy.ma
+mounir.elmajid@falsemail.ma
+omar.tazi@exemple.ma
+rania.belkhadir@trymail.ma
+sanae.bourkia@test-maroc.ma
+soukaina.elmansouri@trialmail.ma
+tarik.elkhouja@invalid.ma
+yassine.elhaj@fakemail.ma
+youssef.aitbaha@maroc-test.ma
